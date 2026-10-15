@@ -1,6 +1,7 @@
 import { Engine } from "@babylonjs/core";
 import { createStartScene } from './createStartScene';
 // import { ShowInspector } from "@babylonjs/inspector";
+
 import './main.css';
 
 const CanvasName = "renderCanvas";
